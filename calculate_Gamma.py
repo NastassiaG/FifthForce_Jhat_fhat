@@ -11,9 +11,6 @@ def E(z, Omega_m0=0.3111):
 def Hprime(z, Omega_m0=0.3111): # derivative of the conformal Hubble parameter wrt ln(a)
     return E(z, Omega_m0 = Omega_m0)/(1+z)-Omega_m0*3*(1+z)**2/(2*E(z, Omega_m0 = Omega_m0))
 
-def Omega_m(z, Omega_m0=0.3111):
-    return Omega_m0*(1+z)**3/E(z, Omega_m0 = Omega_m0)**2
-
 
 def matter_growth(z, Omega_m0 = 0.3111):
     A = (-1+Omega_m0)/Omega_m0

@@ -5,7 +5,7 @@ This repository contains the code used for the fifth force measurements presente
 The test is based on combining measurements of  
 
 - the growth rate of structure, $\hat{f} = f\sigma_8$  
-- the evolution of the Weyl potential, $\hat{J}(z)$ (see [arXiv:2209.08987](https://arxiv.org/abs/2209.08987) and [arXiv:2312.06434](https://arxiv.org/abs/2312.06434).  
+- the evolution of the Weyl potential, $\hat{J}(z)$ (see [arXiv:2209.08987](https://arxiv.org/abs/2209.08987) and [arXiv:2312.06434](https://arxiv.org/abs/2312.06434)).  
 
 ---
 

@@ -1,0 +1,14 @@
+#Constraint on Gamma with current data
+#Measurement at MagLim redshifts, 4 knots
+#z	Gamma	Gamma_error
+0.295000	0.911400	0.166981
+0.467000	1.040881	0.171791
+0.626000	0.992584	0.198565
+0.771000	1.153901	0.271475
+
+#Measurement at MagLim redshifts, 3 knots
+#z	Gamma	Gamma_error
+0.295000	0.943277	0.168181
+0.467000	0.887349	0.134161
+0.626000	0.755579	0.110568
+0.771000	0.837578	0.147793

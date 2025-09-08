@@ -1,11 +1,11 @@
 #Constraint on Gamma with current data
 #Measurement at MagLim redshifts
 #z	Gamma	Gamma_error
-0.295000	0.911400	0.166981
-0.467000	1.040881	0.171791
-0.626000	0.992584	0.198565
-0.771000	1.153901	0.271475
+0.295000	0.912445	0.165114
+0.467000	1.039699	0.169409
+0.626000	0.990042	0.198841
+0.771000	1.149852	0.269116
 
 #Constant fifth force in observed redshift range
 #Gamma	Gamma_error
-0.929774	0.142034
+0.929702	0.140368
